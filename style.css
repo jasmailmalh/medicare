@@ -1,0 +1,64 @@
+body{
+	background: #fffff;
+	box-sizing: border-box; 
+	margin: 0px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.login_form{
+	margin-top:20%;
+	background:#fff;
+	padding:30px;
+	box-shadow:0px 1px 31px 5px rgba(0,0,0,0.28);
+	border-radius:20px;
+
+}
+.login1_form{
+	margin-top:5%;
+	background:#fff;
+	padding:30px;
+	box-shadow:0px 1px 31px 5px rgba(0,0,0,0.28);
+	border-radius:20px;
+
+}
+.navbar a:hover{
+	border-bottom: 1px solid black;
+	color: red !important;
+
+}
+
+
+
+/*
+
+	add to cart
+
+*/
+
+.heart__icon__container,
+.search__icon__container {
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.add__cart__container {
+	height: 40px;
+	background: #E55C42;
+	border-radius: 30px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.pl-none {
+	padding-left: 0;
+	
+}
+
