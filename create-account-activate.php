@@ -10,7 +10,7 @@
   $stmt->bind_param("ss", $status, $vtoken);
   $result = $stmt->execute() or die($this->con->error);
   if ($result){
-   header('location:http://medicare.test/login.php');
+   header('location:http://localhost/login.php');
   }else {
   	echo "account is not activated"; 
   }

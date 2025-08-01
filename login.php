@@ -2,7 +2,7 @@
 	session_start();
  	if(isset($_SESSION['email']))
  	{
-  		header('location:http://medicare.test/index.php');
+  		header('location:http://localhost/index.php');
  	} 
 
 

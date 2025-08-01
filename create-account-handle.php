@@ -93,7 +93,7 @@ class Operation
 			    //Content
 			    $mail->isHTML(true);                                  //Set email format to HTML
 			    $mail->Subject = 'This is the verifiacation mail';
-			    $mail->Body    = "<a href='http://medicare.test/create-account-activate.php?token=$this->token'> click here to verify you mail </a>";
+			    $mail->Body    = "<a href='http://localhost/medicare//create-account-activate.php?token=$this->token'> click here to verify you mail </a>";
 			    // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
 			    $mail->send();

@@ -42,7 +42,7 @@ class login
  							}
  							$_SESSION['email']= $email;
 
- 							header('location:http://medicare.test/index.php');
+ 							header('location:http://localhost/medicare/index.php');
 				}
 				
 			}else{
@@ -50,7 +50,7 @@ class login
 			}
 		}else {
 			
-			header('location:http://medicare.test/login.php');
+			header('location:http://localhost/medicare/login.php');
 		}
 	}
 }

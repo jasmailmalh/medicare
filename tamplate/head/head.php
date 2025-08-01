@@ -46,8 +46,8 @@
 			<div class="col-md-12 col-sm-12 col-lg-3 text-center  ">
 			   <a href="tel:+917973733520" class="border rounded-pill bg-primary  text-center text-white">+9191009200</a>
 		  </div>
-<?php 
-if(isset($_SESSION['email'])){ ?>
+			<?php 
+			if(isset($_SESSION['email'])){ ?>
 
 		    <div class="col-md-4 col-sm-12  text-center">
 		   		<a href="myaccount.php" data-toggle="tooltip" title="my account"><i class="fa fa-user-circle-o m-2" aria-hidden="true">My Account</i></a>
@@ -91,8 +91,8 @@ if(isset($_SESSION['email'])){ ?>
     				     	
     				    			<li class="nav-item dropdown">
     				      			<a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-          		          Mom & baby      				 
-          		          </a>
+          		           Mom & baby      				 
+          		           </a>
 
           								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
            						 				<li><a class="dropdown-item text-dark" href="babycare.php">Baby care</a></li>
@@ -122,7 +122,7 @@ if(isset($_SESSION['email'])){ ?>
     				     			 				<a class="nav-link text-dark " href="contact.php">contact</a>
                                <li class="nav-item">
                               <a class="nav-link text-dark " href="tel:+917973733520">call us</a>
-                            </li>
+                              </li>
     				    						</li>
                             <li class="nav-item">
 
