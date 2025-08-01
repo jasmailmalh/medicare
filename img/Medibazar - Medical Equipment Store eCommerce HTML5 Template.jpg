@@ -1,0 +1,1742 @@
+<!DOCTYPE html>
+<!-- saved from url=(0065)https://www.devsnews.com/template/medibazar/medibazar/index.html# -->
+<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers" lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Medibazar - Medical Equipment Store eCommerce HTML5 Template </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="https://www.devsnews.com/template/medibazar/medibazar/site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="https://www.devsnews.com/template/medibazar/medibazar/assets/img/favicon.ico">
+        <!-- Place favicon.ico in the root directory -->
+
+		<!-- CSS here -->
+        <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.css"> -->
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/owl.carousel.min.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/animate.min.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/magnific-popup.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/fontawesome-all.min.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/themify-icons.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/meanmenu.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/slick.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/main.css">
+        <link rel="stylesheet" href="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/responsive.css">
+
+    </head>
+    <body>
+
+        <!-- header-start -->
+		<header>
+            <div class="header-top-area pl-165 pr-165">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-8 col-lg-6 col-md-6">
+                            <div class="header-top-wrapper">
+                                <div class="header-top-info d-none d-xl-block f-left">
+                                    <span><i class="fas fa-heart"></i> Welcome to Medibazae. We provides <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">Covid-19 </a>medical accessories</span>
+                                </div>
+                                <div class="header-link f-left">
+                                    <span><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-phone"></i> +123 (456) 7879</a></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6">
+                            <div class="header-top-right text-md-right">
+                               <div class="shop-menu">
+                                   <ul>
+                                       <li><a href="https://www.devsnews.com/template/medibazar/medibazar/register.html"><i class="fal fa-user-circle"></i> My Account</a></li>
+                                       <li><a href="https://www.devsnews.com/template/medibazar/medibazar/cart.html"><i class="far fa-cart-plus"></i> Cart</a></li>
+                                       <li><a href="https://www.devsnews.com/template/medibazar/medibazar/wishlist.html"><i class="far fa-heart"></i> Wishlist</a></li>
+                                   </ul>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="sticky-header" class="main-menu-area menu-01 pl-165 pr-165">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="logo">
+                                <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/logo.png" alt=""></a>
+                            </div>
+                        </div>
+                        <div class="col-xl-9 col-lg-9 d-none d-lg-block">
+                            <div class="header-right f-right">
+                                <div class="header-lang f-right pos-rel d-none d-md-none d-lg-block">
+                                    <div class="lang-icon">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/flag.png" alt="">
+                                        <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-angle-down"></i></a>
+                                    </div>
+                                    <ul class="header-lang-list">
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">USA</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">UK</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">CA</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">AU</a></li>
+                                    </ul>
+                                </div>
+                                <div class="menu-bar info-bar f-right d-none d-md-none d-lg-block">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="fal fa-bars"></i></a>
+                                </div>
+                                <div class="header-search f-right d-none d-xl-block">
+                                    <form class="header-search-form">
+                                        <input placeholder="Search" type="text">
+                                        <button type="submit"><i class="far fa-search"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="main-menu">
+                                <nav id="mobile-menu" style="display: block;">
+                                    <ul>
+                                        <li class="active"><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html">home</a>
+                                            <ul class="sub-menu text-left">
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html">home 1</a></li>
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index-2.html">home 2</a></li>
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index-3.html">home 3</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-grid.html">Shop</a>
+                                            <ul class="sub-menu text-left">
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-grid.html">shop grid</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-full-width.html">shop full width</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-04-column.html">shop 04 column</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-left-02-column.html">shop left 02 column</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-left-sidebar.html">shop left sidebar</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-right-sidebar.html">shop right sidebar</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">product details</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/wishlist.html">wishlist</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/checkout.html">checkout</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/cart.html">cart</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/login.html">login</a>
+                                                </li><li><a href="https://www.devsnews.com/template/medibazar/medibazar/register.html">register</a>
+
+                                            </li></ul>
+                                        </li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/shop-grid.html">Categories </a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-grid.html">Blog</a>
+                                            <ul class="sub-menu text-left">
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-grid.html">blog grid</a></li>
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-grid-sidebar.html">blog grid sidebar</a></li>
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-standard.html">blog standardr</a></li>
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">blog details</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">pages</a>
+                                            <ul class="sub-menu text-left">
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">about</a></li>
+                                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">contact</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">contact</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="mobile-menu"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="extra-info">
+                <div class="close-icon">
+                    <button>
+                        <i class="far fa-window-close"></i>
+                    </button>
+                </div>
+                <div class="logo-side mb-30">
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/white-logo.png" alt="">
+                    </a>
+                </div>
+                <div class="side-info mb-30">
+                    <div class="contact-list mb-30">
+                        <h4>Office Address</h4>
+                        <p>123/A, Miranda City Likaoli
+                            Prikano, Dope</p>
+                    </div>
+                    <div class="contact-list mb-30">
+                        <h4>Phone Number</h4>
+                        <p>+0989 7876 9865 9</p>
+                        <p>+(090) 8765 86543 85</p>
+                    </div>
+                    <div class="contact-list mb-30">
+                        <h4>Email Address</h4>
+                        <p>info@example.com</p>
+                        <p>example.mail@hum.com</p>
+                    </div>
+                </div>
+                <div class="instagram">
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p1.jpg" alt="">
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p2.jpg" alt="">
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p3.jpg" alt="">
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p4.jpg" alt="">
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p5.jpg" alt="">
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p6.jpg" alt="">
+                    </a>
+                </div>
+                <div class="social-icon-right mt-20">
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <i class="fab fa-google-plus-g"></i>
+                    </a>
+                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </header>
+        <!-- header-start -->
+
+        <main>
+
+            <!-- hero-area start -->
+            <section class="hero-area">
+                <div class="hero-slider">
+                    <div class="slider-active slick-initialized slick-slider">
+                        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1349px;"><div class="single-slider slider-height d-flex align-items-center slick-slide slick-current slick-active" data-background="assets/img/slider/01.jpg" data-slick-index="0" style="background-image: url(&quot;assets/img/slider/01.jpg&quot;); width: 1349px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" aria-hidden="false" tabindex="0">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-xl-5 col-lg-6">
+                                        <div class="hero-text mt-90">
+                                            <div class="hero-slider-caption ">
+                                                <span data-animation="fadeInUp" data-delay=".2s" class="" style="animation-delay: 0.2s;">covid -19 products</span>
+                                                <h2 data-animation="fadeInUp" data-delay=".4s" class="" style="animation-delay: 0.4s;">Face Mask
+                                                    Thermometer</h2>
+                                                <p data-animation="fadeInUp" data-delay=".6s" class="" style="animation-delay: 0.6s;">Quis autem vel eum iure reprehenin voluptate
+                                                    velit esse quam nihil molestiae conse</p>
+                                            </div>
+                                            <div class="hero-slider-btn">
+                                                <a data-animation="fadeInUp" data-delay=".8s" href="https://www.devsnews.com/template/medibazar/medibazar/contact.html" class="c-btn" tabindex="0" style="animation-delay: 0.8s;">shop now <i class="far fa-plus"></i></a>
+                                                    <div class="b-button" data-animation="fadeInUp" data-delay="1s" style="animation-delay: 1s;">
+                                                        <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html" tabindex="0">hot collection <i class="far fa-plus"></i></a>
+                                                     </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-7 col-lg-6">
+                                        <div class="slider-img d-none d-lg-block" data-animation="fadeInRight" data-delay=".8s" style="animation-delay: 0.8s;">
+                                            <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div></div></div>
+                    </div>
+                </div>
+            </section>
+            <!-- hero-area end -->
+
+            <!-- banner-area-start -->
+            <div class="banner-area banner-pb pt-30 pb-70 pl-55 pr-55">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-4">
+                            <div class="banner-wrapper mb-30">
+                                <div class="banner-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01.jpg" alt=""></a>
+                                    <div class="banner-text">
+                                        <span>Digital Meter</span>
+                                        <h2>Thermometer</h2>
+                                        <div class="b-button red-b-button">
+                                            <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">shop now <i class="far fa-plus"></i></a>
+                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4">
+                            <div class="banner-wrapper mb-30">
+                                <div class="banner-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02.jpg" alt=""></a>
+                                    <div class="banner-text">
+                                        <span>Gun Covid -19</span>
+                                        <h2>Temperature</h2>
+                                        <div class="b-button red-b-button">
+                                            <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">shop now <i class="far fa-plus"></i></a>
+                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4">
+                            <div class="banner-wrapper mb-30">
+                                <div class="banner-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03.jpg" alt=""></a>
+                                    <div class="banner-text">
+                                        <span>Pulse</span>
+                                        <h2>Oximeter</h2>
+                                        <div class="b-button red-b-button">
+                                            <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">shop now <i class="far fa-plus"></i></a>
+                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="banner-wrapper mb-30">
+                                <div class="banner-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04.jpg" alt=""></a>
+                                    <div class="banner-text">
+                                        <span>Lab Surgery</span>
+                                        <h2>N95 Face Mask</h2>
+                                        <div class="b-button red-b-button">
+                                            <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">shop now <i class="far fa-plus"></i></a>
+                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="banner-wrapper mb-30">
+                                <div class="banner-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05.jpg" alt=""></a>
+                                    <div class="banner-text">
+                                        <span>Surgery Lab</span>
+                                        <h2>Hand Gloves</h2>
+                                        <div class="b-button red-b-button">
+                                            <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">shop now <i class="far fa-plus"></i></a>
+                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- banner-area-end -->
+
+            <!-- product-area-start -->
+            <div class="product-area pb-50">
+                <div class="container">
+                    <div class="tab-border mb-60">
+                        <div class="row">
+                            <div class="col-xl-7 col-lg-6">
+                                <div class="section-title mb-25">
+                                    <h2>Features Products</h2>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error</p>
+                                </div>
+                            </div>
+                            <div class="col-xl-5 col-lg-6">
+                                <div class="product-tab mb-25">
+                                    <ul class="nav justify-content-start justify-content-lg-end product-nav" id="myTab" role="tablist">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#home" role="tab" aria-controls="home" aria-selected="true">
+                                                <i class="far fa-shield-check"></i> Best Seller
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#profile" role="tab" aria-controls="profile" aria-selected="false">
+                                            <i class="far fa-star"></i>  Top Rated
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" id="contact-tab" data-toggle="tab" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#contact" role="tab" aria-controls="contact" aria-selected="false">
+                                            <i class="far fa-star"></i> Popular
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="product-tab-content">
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                                <div class="row">
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Medical Microscope</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>hand sanitizer</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Hand Sanitizer Covid -19</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>home accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Medical Thermometer</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Lab N95 Face Mask</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>hand gloves</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Covid -19 Hand Gloves</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>medical equipment</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">New Temperature Gun</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                <div class="row">
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Medical Microscope</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>home accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Medical Thermometer</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>hand sanitizer</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Hand Sanitizer Covid -19</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Lab N95 Face Mask</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>hand gloves</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Covid -19 Hand Gloves</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>medical equipment</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">New Temperature Gun</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                                <div class="row">
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Medical Microscope</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>hand sanitizer</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Hand Sanitizer Covid -19</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>home accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Medical Thermometer</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>accessories</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Lab N95 Face Mask</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(1).jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>medical equipment</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">New Temperature Gun</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 cl-lg-4 col-md-6">
+                                        <div class="product-wrapper text-center mb-45">
+                                            <div class="product-img pos-rel">
+                                                <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(1).jpg" alt="">
+                                                    <img class="secondary-img" src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.jpg" alt="">
+                                                </a>
+                                                <div class="product-action">
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">add to cart <i class="far fa-plus"></i></a>
+                                                    <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                                </div>
+                                            </div>
+                                            <div class="product-text">
+                                                <h5>hand gloves</h5>
+                                                <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Covid -19 Hand Gloves</a></h4>
+                                                <span>$250.99</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- product-area-end -->
+
+            <!-- deal-area-start -->
+            <div class="deal-area pb-50 pt-95">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">
+                            <div class="section-title text-center mb-65">
+                                <h2>Deal Of This Week</h2>
+                                <p>Sed ut perspiciatis unde omnis iste natus error</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-8 offset-lg-2 offset-xl-3">
+                            <div class="deal-wrapper text-center">
+                                <div class="deal-count">
+                                    <div class="deal-time" data-countdown="2020/9/01"><div class="time-count">00 <span>days</span></div><div class="time-count">00 <span>hour</span></div><div class="time-count">00 <span>minute</span></div><div class="time-count">00 <span>Second</span></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- deal-area-end -->
+
+            <!-- banner-area-start -->
+            <div class="banner-02-area pb-70 pl-165 pr-165">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="banner-02-wrapper text-center mb-30" data-bg-color="#edf7fb" style="background: rgb(237, 247, 251);">
+                                <div class="banner-02-text">
+                                    <span>Digital Meter</span>
+                                    <h2>Blood Pressure Meter</h2>
+                                </div>
+                                <div class="banner-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/b-01.png" alt=""></a>
+                                     <span class="banner-tag">hot</span>
+                                </div>
+                                <div class="banner-price">
+                                    <span class="old-price">$250.99</span>
+                                    <span class="new-price">$239.99</span>
+                                </div>
+                                <div class="banner-button">
+                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">buy now <i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="banner-02-wrapper text-center mb-30" data-bg-color="#f8f8f8" style="background: rgb(248, 248, 248);">
+                                <div class="banner-02-text">
+                                    <span>Digital Meter</span>
+                                    <h2>Blood Pressure Meter</h2>
+                                </div>
+                                <div class="banner-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/b-02.png" alt=""></a>
+                                     <span class="banner-tag">hot</span>
+                                </div>
+                                <div class="banner-price">
+                                    <span class="old-price">$250.99</span>
+                                    <span class="new-price">$239.99</span>
+                                </div>
+                                <div class="banner-button">
+                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">buy now <i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="banner-02-wrapper text-center mb-30" data-bg-color="#f3f8ff" style="background: rgb(243, 248, 255);">
+                                <div class="banner-02-text">
+                                    <span>Digital Meter</span>
+                                    <h2>Blood Pressure Meter</h2>
+                                </div>
+                                <div class="banner-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/b-03.png" alt=""></a>
+                                     <span class="banner-tag">hot</span>
+                                </div>
+                                <div class="banner-price">
+                                    <span class="old-price">$250.99</span>
+                                    <span class="new-price">$239.99</span>
+                                </div>
+                                <div class="banner-button">
+                                    <a class="c-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">buy now <i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- banner-area-end -->
+
+            <!-- product-area-start -->
+            <div class="product-area pb-70">
+                <div class="container">
+                    <div class="row mb-30">
+                        <div class="col-xl-7 col-lg-7 col-md-7">
+                            <div class="section-title mb-30">
+                                <h2>Features Products</h2>
+                                <p>Sed ut perspiciatis unde omnis iste natus error</p>
+                            </div>
+                        </div>
+                        <div class="col-xl-5 col-lg-5 col-md-5">
+                            <div class="b-button shop-btn s-btn text-md-right mb-30">
+                                <a href="https://www.devsnews.com/template/medibazar/medibazar/contact.html">view all product <i class="fal fa-long-arrow-right"></i></a>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-08.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="product-text">
+                                    <h5>face mask</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Lab N98 Face Mask</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-01.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <span class="product-tag hot-1">Hot</span>
+                                <div class="product-text">
+                                    <h5>sanitizer</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Hand Sanitizer</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-02.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="product-text">
+                                    <h5>home accessories</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Inhaler Pressure Drop</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-03.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <span class="product-tag hot-2">new</span>
+                                <div class="product-text">
+                                    <h5>medical meter</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Temperature Gun</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-04.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <span class="product-tag hot-2">new</span>
+                                <div class="product-text">
+                                    <h5>hand gloves</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Lab Hand Gloves</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-05.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <span class="product-tag hot-1">new</span>
+                                <div class="product-text">
+                                    <h5>medical meter</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Digital Thermometer</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-06.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="product-text">
+                                    <h5>hand sanitizer</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">hand sanitizer</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6">
+                            <div class="product-02-wrapper pos-rel text-center mb-30">
+                                <div class="product-02-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/p-07.png" alt="">
+                                    </a>
+                                    <div class="product-action">
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-heart"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-cart-plus"></i></a>
+                                        <a class="action-btn" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="far fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <span class="product-tag hot-3">-30%</span>
+                                <div class="product-text">
+                                    <h5>personal</h5>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/product-details.html">Health Medicine</a></h4>
+                                    <span>$250.99</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- product-area-end -->
+
+            <!-- testimonial-area-start -->
+            <div class="testimonial-area pt-100 pb-175" data-background="assets/img/bg/test.jpg" style="background-image: url(&quot;assets/img/bg/test.jpg&quot;);">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">
+                            <div class="section-title text-center mb-65">
+                                <h2>What Our Client’s Say</h2>
+                                <p>Sed ut perspiciatis unde omnis iste natus error</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row test-active slick-initialized slick-slider slick-dotted"><button type="button" class="slick-prev slick-arrow" style="display: block;"><i class="fal fa-long-arrow-left"></i></button>
+                        
+                        
+                        
+                        
+                    <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 6000px; transform: translate3d(-3000px, 0px, 0px);"><div class="col-xl-6 slick-slide slick-cloned" style="width: 600px;" data-slick-index="-2" aria-hidden="true" tabindex="-1">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(2).png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Sebastian Barry</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide slick-cloned" style="width: 600px;" data-slick-index="-1" aria-hidden="true" tabindex="-1">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02.png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Oliver Greenwood</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide" style="width: 600px;" data-slick-index="0" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(2).png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Sebastian Barry</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide" style="width: 600px;" data-slick-index="1" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide11" aria-describedby="slick-slide-control11">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02.png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Oliver Greenwood</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide" style="width: 600px;" data-slick-index="2" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide12" aria-describedby="slick-slide-control12">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(2).png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Sebastian Barry</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide slick-current slick-active" style="width: 600px;" data-slick-index="3" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide13" aria-describedby="slick-slide-control13">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02.png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Oliver Greenwood</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide slick-cloned slick-active" style="width: 600px;" data-slick-index="4" aria-hidden="false" tabindex="-1">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(2).png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Sebastian Barry</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide slick-cloned" style="width: 600px;" data-slick-index="5" aria-hidden="true" tabindex="-1">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02.png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Oliver Greenwood</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide slick-cloned" style="width: 600px;" data-slick-index="6" aria-hidden="true" tabindex="-1">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(2).png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Sebastian Barry</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-6 slick-slide slick-cloned" style="width: 600px;" data-slick-index="7" aria-hidden="true" tabindex="-1">
+                            <div class="testimonial-wrapper">
+                                <div class="inner-test d-flex justify-content-between align-items-center">
+                                    <div class="test-img">
+                                        <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02.png" alt="">
+                                    </div>
+                                    <div class="test-rating">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star-half-alt"></i>
+                                    </div>
+                                </div>
+                                <div class="test-text">
+                                    <p>Sed perspiciatis unde omnis iste natus erolup tatem accusantium doloremque laudantium totam reperiam eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <h4>Oliver Greenwood</h4>
+                                    <span>Business Manager</span>
+                                </div>
+                            </div>
+                        </div></div></div><button type="button" class="slick-next slick-arrow" style="display: block;"><i class="fal fa-long-arrow-right"></i></button><ul class="slick-dots" style="display: block;" role="tablist"><li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 2" tabindex="-1">1</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control11" aria-controls="slick-slide11" aria-label="2 of 2" tabindex="-1">2</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control12" aria-controls="slick-slide12" aria-label="3 of 2" tabindex="-1">3</button></li><li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control13" aria-controls="slick-slide13" aria-label="4 of 2" tabindex="0" aria-selected="true">4</button></li></ul></div>
+                </div>
+            </div>
+            <!-- testimonial-area-end -->
+
+            <!-- blog-area-start -->
+            <div class="blog-area pt-105 pb-75">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">
+                            <div class="section-title text-center mb-65">
+                                <h2>Latest News &amp; Blog</h2>
+                                <p>Sed ut perspiciatis unde omnis iste natus error</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="blog-wrapper mb-30">
+                                <div class="blog-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(3).jpg" alt=""></a>
+                                    <span class="blog-tag color-1">covid -19</span>
+                                </div>
+                                <div class="blog-text">
+                                    <div class="blog-meta">
+                                        <span><i class="far fa-calendar-alt"></i> <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">25 Aug 2020</a></span>
+                                    </div>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">Mirage Deep Dive Under anding Timin Response</a></h4>
+                                    <p>Sedut perspiciatis unde omnis natus error sit voluptatem accusantium </p>
+                                    <div class="b-button gray-b-button">
+                                        <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">read more <i class="far fa-plus"></i></a>
+                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="blog-wrapper mb-30">
+                                <div class="blog-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(2).jpg" alt=""></a>
+                                    <span class="blog-tag color-2">sanitizer</span>
+                                </div>
+                                <div class="blog-text">
+                                    <div class="blog-meta">
+                                        <span><i class="far fa-calendar-alt"></i> <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">25 Aug 2020</a></span>
+                                    </div>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">How To Feel More Energe Even You’re Stuck</a></h4>
+                                    <p>Sedut perspiciatis unde omnis natus error sit voluptatem accusantium </p>
+                                    <div class="b-button gray-b-button">
+                                        <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">read more <i class="far fa-plus"></i></a>
+                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="blog-wrapper mb-30">
+                                <div class="blog-img pos-rel">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(2).jpg" alt=""></a>
+                                    <span class="blog-tag color-1">medical</span>
+                                </div>
+                                <div class="blog-text">
+                                    <div class="blog-meta">
+                                        <span><i class="far fa-calendar-alt"></i> <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">25 Aug 2020</a></span>
+                                    </div>
+                                    <h4><a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">Learning Resourc Challe
+                                        Ging Online Work</a></h4>
+                                    <p>Sedut perspiciatis unde omnis natus error sit voluptatem accusantium </p>
+                                    <div class="b-button gray-b-button">
+                                        <a href="https://www.devsnews.com/template/medibazar/medibazar/blog-details.html">read more <i class="far fa-plus"></i></a>
+                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- blog-area-end -->
+
+            <!-- brand-area-start -->
+            <div class="brand-area pb-40">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(4).png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(3).png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/07.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/08.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/09.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/10.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/11.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-6">
+                            <div class="single-brand mb-60">
+                                <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/12.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- brand-area-end -->
+
+            <!-- features-area-start -->
+            <div class="features-area pt-60 pb-30 grey-2-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="features-wrapper mb-30">
+                                <div class="features-icon fe-1 f-left">
+                                    <i class="fal fa-ship"></i>
+                                </div>
+                                <div class="features-text">
+                                    <h3>Free Shipping</h3>
+                                    <p>Sed perspicia unde omnis iste
+                                    nat error voluptate accus</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="features-wrapper mb-30">
+                                <div class="features-icon fe-2 f-left">
+                                     <i class="fal fa-usd-circle"></i>
+                                </div>
+                                <div class="features-text">
+                                    <h3>Money Back</h3>
+                                    <p>Sed perspicia unde omnis iste
+                                    nat error voluptate accus</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-6">
+                            <div class="features-wrapper mb-30">
+                                <div class="features-icon fe-3 f-left">
+                                    <i class="fal fa-unlock-alt"></i>
+                                </div>
+                                <div class="features-text">
+                                    <h3>100% Secure</h3>
+                                    <p>Sed perspicia unde omnis iste
+                                    nat error voluptate accus</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- features-area-end -->
+
+            <!-- instagram-area-start -->
+            <div class="instagram-area pl-130 pr-130">
+                <div class="container-fluid">
+                    <div class="row instagram-active slick-initialized slick-slider">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3640px; transform: translate3d(-1092px, 0px, 0px);"><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="-6" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(4).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="-5" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(3).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="-4" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(2).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="-3" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(2).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="-2" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06(1).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="-1" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(5).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-current slick-active" style="width: 182px;" data-slick-index="0" aria-hidden="false" tabindex="0">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="0"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(5).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-active" style="width: 182px;" data-slick-index="1" aria-hidden="false" tabindex="0">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="0"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(4).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-active" style="width: 182px;" data-slick-index="2" aria-hidden="false" tabindex="0">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="0"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(3).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-active" style="width: 182px;" data-slick-index="3" aria-hidden="false" tabindex="0">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="0"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(2).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-active" style="width: 182px;" data-slick-index="4" aria-hidden="false" tabindex="0">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="0"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(2).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-active" style="width: 182px;" data-slick-index="5" aria-hidden="false" tabindex="0">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="0"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06(1).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide" style="width: 182px;" data-slick-index="6" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(5).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="7" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(5).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="8" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/02(4).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="9" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/03(3).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="10" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/04(2).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="11" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/05(2).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="12" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/06(1).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><div class="col-xl-2 p-0 slick-slide slick-cloned" style="width: 182px;" data-slick-index="13" aria-hidden="true" tabindex="-1">
+                            <div class="instagram-wrapper">
+                                <div class="instagram-img">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#" tabindex="-1"><img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/01(5).jpg" alt="">
+                                        <div class="instagram-icon">
+                                            <i class="fab fa-instagram"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div></div></div></div>
+                </div>
+            </div>
+            <!-- instagram-area-end -->
+
+        </main>
+
+        <!-- footer-area-start -->
+        <footer>
+          <div class="footer-area pt-80 pb-45">
+              <div class="container">
+                  <div class="row">
+                        <div class="col-xl-3 col-lg-3 col-md-6">
+                            <div class="footer-wrapper mb-30">
+                                <h3 class="footer-title">About Company</h3>
+                                <div class="footer-text">
+                                    <p>But must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born </p>
+                                </div>
+                                <div class="footer-icon">
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-6">
+                            <div class="footer-wrapper ml-80 mb-30">
+                                <h3 class="footer-title">Useful Links</h3>
+                                <div class="footer-link">
+                                    <ul>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">Shipping Options</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/our-history.html">My Wishlist</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">My Account</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/team.html">Return Policy</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">Shopping FAQs</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-6">
+                            <div class="footer-wrapper ml-80 mb-30">
+                                <h3 class="footer-title">Product</h3>
+                                <div class="footer-link">
+                                    <ul>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">Thermometer</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/our-history.html">Vitamins &amp; Supplements</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">Temperature Gun</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/team.html">Oxygen Mmeter &amp; Mask</a></li>
+                                        <li><a href="https://www.devsnews.com/template/medibazar/medibazar/about.html">Shipping &amp; Returns</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 col-md-6">
+                            <div class="footer-wrapper ml-130 mb-30">
+                                <h3 class="footer-title">Payment</h3>
+                                <div class="footer-img">
+                                    <img src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/footer.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                  </div>
+              </div>
+          </div>
+        <div class="footer-bottom-area mr-70 ml-70 pt-25 pb-25">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-6">
+                        <div class="copyright">
+                            <p>Copyright <i class="far fa-copyright"></i> 2020 <a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">Medibazar</a>. All Rights Reserved</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6">
+                        <div class="footer-bottom-link f-right">
+                            <ul>
+                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">Home </a></li>
+                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#"> About Us</a></li>
+                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">Our Product</a></li>
+                                <li><a href="https://www.devsnews.com/template/medibazar/medibazar/index.html#">Service </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </footer>
+        <!-- footer-area-end -->
+
+
+
+		<!-- JS here -->
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/modernizr-3.5.0.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery-1.12.4.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/popper.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/bootstrap.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/owl.carousel.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/isotope.pkgd.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/slick.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.meanmenu.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/ajax-form.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/wow.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/waypoints.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.appear.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.countdown.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.knob.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.counterup.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.scrollUp.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/imagesloaded.pkgd.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/jquery.magnific-popup.min.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/plugins.js.download"></script>
+        <script src="./Medibazar - Medical Equipment Store eCommerce HTML5 Template_files/main.js.download"></script><a id="scrollUp" href="https://www.devsnews.com/template/medibazar/medibazar/index.html#top" style="position: fixed; z-index: 2147483647; display: none;"><i class="fas fa-angle-up"></i></a>
+    
+</body></html>
